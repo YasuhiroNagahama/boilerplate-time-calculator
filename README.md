@@ -1,1 +1,1 @@
-# time-calculator
+# boilerplate-time-calculator
