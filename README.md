@@ -20,11 +20,19 @@ Pythonのインストーラーをダウンロード
 
 # Usage
 
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
-
+リポジトリをクローン
 ```bash
 git clone https://github.com/YasuhiroNagahama/boilerplate-time-calculator.git
-python .py
+```
+
+main.pyでadd_time関数に引数を渡す。
+```python:main.py
+print(add_time("3:00 PM", "3:10"))
+# Returns: 6:10 PM
+```
+
+```bash
+python main.py
 ```
 
 # Note
