@@ -44,13 +44,5 @@ python main.py
 * 作成者
 YasuhiroTakemura
 * E-mail
-* fnifhubi85h29bddi@gmail.com
+fnifhubi85h29bddi@gmail.com
 
-# License
-ライセンスを明示する
-
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
-
-社内向けなら社外秘であることを明示してる
-
-"hoge" is Confidential.
