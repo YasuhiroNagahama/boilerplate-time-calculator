@@ -2,7 +2,7 @@
 
 boilerplate-time-calculator
 
-# DEMO
+# Demo
 
 
 
